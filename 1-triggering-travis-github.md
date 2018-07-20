@@ -38,11 +38,11 @@ There are 3 major elements in the yml file as mentioned above:
 
 Save the file and push your commit to Github.
 
-As you can see, Travis CI will automatically update NodeJs and install every dependencies of your project (defined in package.json) and then run the test script.
-Once the building process is done, you can see the result in the dialog below.
+As you can see, Travis CI will automatically update NodeJs and install every dependencies of your project (defined in package.json) and then run the test script.  
+Once the building process is done, you can see the result in the dialog below.  
 ![](assets/1_travis_build.jpg)
 
 ------
-And that is how to trigger a Travis CI build from a push to Github.
+And that is how to trigger a Travis CI build from a push to Github.  
 In [the next article](2-run-kobiton-test.md), I will demonstrate how to run Kobiton automation test on Travis and secure your ApiKey.
 
