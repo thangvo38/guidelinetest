@@ -10,7 +10,7 @@ This guild will teach you how to build your Github repository on Travis CI every
 
 ## 1.2 Sync your Github repository with Travis CI
 - You can see a list of your Github repositories on the left. Click on the switch next to your repository's name to sync it to Travis CI.
-![](assets/1_travis_repos)
+![](assets/1_travis_repos.jpg)
 
 - In this guide, I will use my "travis_test" repository as an example.
 
