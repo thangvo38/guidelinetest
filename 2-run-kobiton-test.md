@@ -4,8 +4,10 @@ This guild will teach you how to run your Kobiton test on Travis and how to secu
 ## 2.1 Prepare your Kobiton username and API key for Automation Testing
 ### 2.1.1 Go to Kobiton Portal and click on your Account Name on the upper right corner
   - You can see your username on the dialog below.
+![](assets/2_kobiton_username.jpg)
 ### 2.1.2 Click on your Account Name and select "Settings"
   - Copy your API key from the textbox.
+![](assets/2_kobiton_apikey.jpg)
 
 ## 2.2 Configure enviroment variables in your .travis.yml file
 ### 2.2.1 There are 3 methods to attach an enviroment variable to travis.
@@ -40,6 +42,7 @@ env:
 
 ### 2.2.3 Edit your automation testing script
 - Get serverConfig and desiredCaps for your Kobiton device
+![](assets/2_kobiton_device.jpg)
 - Edit your settings on your script
 ~~~
 const username = process.env.KOBITON_USERNAME
