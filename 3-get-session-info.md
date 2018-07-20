@@ -76,7 +76,7 @@ The test is either a success or failure
 * **Device if already booked, please select another device.**  
 This means your device is already in-used. You may either select another device or turn off the booked one.  
 * **Other**  
-- Contact Kobiton for more support
+Contact Kobiton for more support
 
 -----
 Kobiton API document: [https://api.kobiton.com/docs](https://api.kobiton.com/docs)
