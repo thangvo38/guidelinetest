@@ -3,11 +3,7 @@ This guild will teach you how to build your Github repository on Travis CI every
 
 ## 1.1 Sign in to Travis CI with your Github account
 - Go to www.travis-ci.org and click on the "Sign in with Github" button in the upper right corner of the screen
-<<<<<<< HEAD
 ![](assets/1_travis_signin.jpg)
-=======
-![Travis](/assets/1_travis_signin.jpg)
->>>>>>> 885c6ae1eb326eb04093636779bd2400ff7209ec
 
 - Enter your Github Id and Password then click "Sign in"
 ![](assets/1_travis_signin_github.jpg)
@@ -48,5 +44,5 @@ Once the building process is done, you can see the result in the dialog below.
 
 ------
 And that is how to trigger a Travis CI build from a push to Github.
-In next article, I will demonstrate how to run Kobiton automation test on Travis and secure your ApiKey.
+In [the next article](2-run-kobiton-test.md), I will demonstrate how to run Kobiton automation test on Travis and secure your ApiKey.
 
