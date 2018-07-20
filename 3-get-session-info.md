@@ -72,8 +72,12 @@ For example:
 
 ## 3.3 Final result
 The test is either a success or failure
-**Failure Case**
-**Device if already booked, please select another device.**
+**Failure Case**  
+**Device if already booked, please select another device.**  
+This means your device is already in-used. You may either select another device or turn off the booked one.  
+**Other**  
+- Contact Kobiton for more support
+
 -----
 Kobiton API document: [](https://api.kobiton.com/docs)
 

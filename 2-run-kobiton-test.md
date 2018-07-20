@@ -82,5 +82,5 @@ cache:
 
 ------
 And that is how to run Kobiton test on Travis CI.  
-On the next issue, we will use Kobtion API to get testing session information.
+On the [next issue](3-get-session-info.md), we will use Kobtion API to get testing session information.
 
